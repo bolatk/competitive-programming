@@ -13,7 +13,7 @@ public class GreatestCommonDivisor {
 
     public void run() {
     	try {
-    		in = new FastScanner(System.in);
+			in = new FastScanner(System.in);
     		out = new PrintWriter(System.out);
     		solve();
     		out.close();
