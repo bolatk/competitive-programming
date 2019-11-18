@@ -20,7 +20,6 @@ public class FastScanner {
 				e.printStackTrace();
 			}
 		}
-
 		return st.nextToken();
 	}
 

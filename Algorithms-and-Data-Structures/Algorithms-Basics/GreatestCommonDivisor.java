@@ -32,7 +32,6 @@ public class GreatestCommonDivisor {
 			a = b;
 			b = remainder;
 		}
-
 		return a;
 	}
 }
